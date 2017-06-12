@@ -47,6 +47,6 @@
 6. 如果定时任务不执行，可以执行`sudo touch /etc/crontab`
 7. 如果需要删除任务可以 `sudo crontab -e` 删除配置的行即可
 
-# 大功告成！good luck!
+# 大功告成！年底升职加薪！good luck! 
 
 
